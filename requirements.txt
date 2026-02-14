@@ -1,0 +1,10 @@
+# Requirements for Plant Disease Detection System
+
+numpy
+pandas
+opencv-python
+scikit-learn
+tensorflow
+flask
+matplotlib
+seaborn
